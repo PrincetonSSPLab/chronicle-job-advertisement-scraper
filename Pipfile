@@ -12,6 +12,10 @@ requests = "*"
 ipykernel = "*"
 selenium = "*"
 markdownify = "*"
+feedparser = "*"
+lxml = "*"
+xmltodict = "*"
+celery = "*"
 
 [dev-packages]
 
